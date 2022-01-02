@@ -26,9 +26,7 @@ public class Game {
     private JLabel titleNameLabel;
     private Font titleFont = new Font("Times New Roman", Font.PLAIN, 90);
     private Font normalFont = new Font("Times New Roman", Font.PLAIN, 28);
-    private Font mainFont = new Font("Times New Roman", Font.PLAIN, 50);
     private JButton startButton, LinkinButton, GithubButton, WebsiteButton;
-    private ImageIcon port1 = new ImageIcon("/img/port1.png");
 
     ScreenHandler StartButton = new ScreenHandler();
     GithubButtonAction GitButton = new GithubButtonAction();
