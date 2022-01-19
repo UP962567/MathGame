@@ -1,0 +1,46 @@
+0,1,0,This is the Start of game!,*,=
+1,2,0,Welcome! Lets see how smart you are in MATH!,*,=
+2,3,0,It will start from the easiest to the hardiest qesutions!,*,=
+3,201,101,2 + 756 = 758,Is it true?,=
+4,102,211,11 * 91 = 1002,Is it true?,=
+5,104,212,100 / 20 = 4.5,Is it true?,=
+6,202,106,5 ( 8  + 3 ) = 55,Is it true?,=
+7,107,213,11 ( 62- 58) = 33,Is it true?,=
+8,207,108,8 / ( 62 - 54 ) = 1,Is it true?,=
+9,208,109,90 ( 3 * 1 ) = 270,Is it true?,=
+10,111,214,Ana have 10 apples she gave a fifth to Ben and three to Jess,Does Ana have more then 5 pounds?,=
+11,112,215,Ben's mother gave 10 pounds Ben to buy food! Ben's food cost only half of the money! But he bought water that cost the fifth of the total! ,Does Ban have more then 4 pounds?,=
+12,0,0,You have finished the Math Game!,/,=
+101,4,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+102,5,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+103,5,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+104,6,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+105,6,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+106,7,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+107,8,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+108,9,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+109,10,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+110,8,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+111,11,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+112,12,0,You should start to calculate it better! \n (Your answer is incorrect!),*,-
+301,203,103,You are corrent! It is not true! \n 11 * 91 = 1001,Is it true?,=
+302,204,105,You are corrent! It is not true! \n 100 / 20 = 5,Is it true?,=
+303,110,205,You are corrent! It is not true! \n 11 ( 62- 58) = 55,Is it true?,=
+304,206,110,You are corrent! It is not true! \n 11 ( 62- 58) = 44,Is it true?,=
+305,209,111,Does she have less then 5 apples?,Is it true?,=
+306,112,210,Does Ban have more les then 3 pounds?,Is it true?,=
+201,4,0,You are right!,*,+
+202,7,0,You are right!,*,+
+203,5,0,You are right!,*,+
+204,6,0,You are right!,*,+
+205,304,0,You are right!,*,+
+206,8,0,You are right!,*,+
+207,9,0,You are right!,*,+
+208,10,0,You are right!,*,+
+209,11,0,You are right!,*,+
+210,12,0,You are right!,*,+
+211,301,0,You are right!,*,+
+212,302,0,You are right!,*,+
+213,303,0,You are right!,*,+
+214,305,0,You are right!,*,+
+215,306,0,You are right!,*,+
